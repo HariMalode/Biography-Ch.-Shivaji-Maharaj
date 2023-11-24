@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: tomato;
+    margin: 12%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+/* ... (existing styles) ... */
+
+.fort-name {
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    font-weight: bold;
+}
